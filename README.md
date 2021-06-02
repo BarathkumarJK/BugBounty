@@ -1,1 +1,1 @@
-# BugBounty
+Collection of Bug Bounty realted topics
