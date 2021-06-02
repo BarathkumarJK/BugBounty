@@ -1,0 +1,36 @@
+Recon
+DNS Discovery
+Name			Link
+Sublist3r		https://github.com/aboul3la/Sublist3r
+enumall			https://github.com/jhaddix/domain/
+massdns			https://github.com/blechschmidt/massdns
+altdns			https://github.com/infosec-au/altdns
+brutesubs		https://github.com/anshumanbh/brutesubs
+dns-parallel-prober	https://github.com/lorenzog/dns-parallel-prober
+dnscan			https://github.com/rbsec/dnscan
+Knockpy			https://github.com/guelfoweb/knock
+Port scan
+Name			Link
+nmap			https://nmap.org
+masscan			https://github.com/robertdavidgraham/masscan
+Screenshots
+Name			Link
+EyeWitness		https://github.com/ChrisTruncer/EyeWitness
+httpscreenshot		https://github.com/breenmachine/httpscreenshot/
+Web Discovery
+Name			Link
+DirBuster		https://sourceforge.net/projects/dirbuster/
+dirb			http://dirb.sourceforge.net/
+ilebuster		https://github.com/henshin/filebuster
+gobuster		https://github.com/OJ/gobuster
+dirsearch		https://github.com/maurosoria/dirsearch
+Github
+Name			Link
+Gitrob			https://github.com/michenriksen/gitrob
+git-all-secrets		https://github.com/anshumanbh/git-all-secrets
+truffleHog		https://github.com/dxa4481/truffleHog
+git-secrets		https://github.com/awslabs/git-secrets
+repo-supervisor		https://github.com/auth0/repo-supervisor
+S3
+Name	Link
+sandcastle		https://github.com/yasinS/sandcastle
