@@ -1,1 +1,1 @@
-Collection of Bug Bounty realted topics
+Collection of Bug Bounty realted topics from twitter,github
