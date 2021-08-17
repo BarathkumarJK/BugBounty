@@ -1,0 +1,152 @@
+GitHub Dork List :
+
+GitHub keywords(Dorks) for Finding API Keys, Tokens, and Passwords:
+Jenkins
+OTP
+oauth
+authoriztion
+password
+pwd
+ftp
+dotfiles
+JDBC
+key-keys
+send_key-keys
+send,key-keys
+token
+user
+login-singin
+passkey-passkeys
+pass
+secret
+SecretAccessKey
+app_AWS_SECRET_ACCESS_KEY AWS_SECRET_ACCESS_KEY
+credentials
+config
+security_credentials
+connectionstring
+ssh2_auth_password
+DB_PASSWORD
+api_key
+“api keys”
+authorization_bearer:
+oauth
+auth
+authentication
+client_secret
+api_token:
+“api token”
+client_id
+password
+user_password
+user_pass
+passcode
+client_secret
+secret
+password hash
+user auth
+
+GitHub Dorks for Finding Languages:
+
+language:php username
+language:sql username
+language:html password
+language:perl password
+language:shell username
+language:java api
+HOMEBREW_GITHUB_API_TOKEN language:shell
+
+
+ — — — — — — — — — — — -BASH — — — — — — — — — — 
+language:bash password
+language:bash pwd
+language:bash ftp
+language:bash dotfiles
+language:bash JDBC
+language:bash key-keys
+language:bash send_key-keys
+language:bash send,key-keys
+language:bash token
+language:bash user
+language:bash login-singin
+language:bash passkey-passkeys
+language:bash pass
+language:bash secret
+language:bash credentials
+language:bash config
+language:bash security_credentials
+language:bash connectionstring
+language:bash ssh2_auth_password
+ — — — — — — — — — — -PYTHON — — — — — — — — — 
+language:python password
+language:python pwd
+language:python ftp
+language:python dotfiles
+language:python JDBC
+language:python key-keys
+language:python send_key-keys
+language:python send,key-keys
+language:python token
+language:python user
+language:python login-singin
+language:python passkey-passkeys
+language:python pass
+language:python secret
+language:python credentials
+language:python config
+language:python security_credentials
+language:python connectionstring
+language:python ssh2_auth_password
+
+GitHub Dorks for Finding Files :
+
+filename:manifest.xml
+filename:travis.yml
+filename:vim_settings.xml
+filename:database
+filename:prod.exs NOT prod.secret.exs
+filename:prod.secret.exs
+filename:.npmrc _auth
+filename:.dockercfg auth
+filename:WebServers.xml
+filename:.bash_history <Domain name>
+filename:sftp-config.json
+filename:sftp.json path:.vscode
+filename:secrets.yml password
+filename:.esmtprc password
+filename:passwd path:etc
+filename:dbeaver-data-sources.xml
+path:sites databases password
+filename:config.php dbpasswd
+filename:prod.secret.exs
+filename:configuration.php JConfig password
+filename:.sh_history
+shodan_api_key language:python
+filename:shadow path:etc
+JEKYLL_GITHUB_TOKEN
+filename:proftpdpasswd
+filename:.pgpass
+filename:idea14.key
+filename:hub oauth_token
+HEROKU_API_KEY language:json 
+HEROKU_API_KEY language:shell
+SF_USERNAME salesforce
+filename:.bash_profile aws
+extension:json api.forecast.io 
+filename:.env MAIL_HOST=smtp.gmail.com
+filename:wp-config.php
+extension:sql mysql dump
+filename:credentials aws_access_key_id
+filename:id_rsa or filename:id_dsa
+
+GitHub Dorks for Finding Information using Extension:
+extension:pem private
+extension:ppk private
+extension:sql mysql dump
+extension:sql mysql dump password
+extension:json api.forecast.io
+extension:json mongolab.com
+extension:yaml mongolab.com
+[WFClient] Password= extension:ica
+extension:avastlic “support.avast.com”
+extension:json googleusercontent client_secret
