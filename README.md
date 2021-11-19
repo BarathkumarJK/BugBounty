@@ -1,1 +1,1 @@
-Collection of Bug Bounty roadmap, tips.
+Collection of Bug Bounty roadmap, tips
